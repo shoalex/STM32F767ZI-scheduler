@@ -3,7 +3,7 @@
 The program show how to make schedualer without FreeRTOS
 
 # Features
-- Using STM32F446RE
+- Using STM32F767ZI
 
 ### Prerequisites
 
